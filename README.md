@@ -2,7 +2,7 @@
   
  ### hello, world! 
 
-i'm alissar, computer science bsc and msc. i currently work as a back-end enginner at @GamersClub. 
+i'm alissar, computer science bsc and msc. 
 
 <!--- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
